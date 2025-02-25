@@ -1,0 +1,24 @@
+{
+  "name": "time-keeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://yeonuk44@github.com/yeonuk44/Time-Keeper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeonuk44/Time-Keeper/issues"
+  },
+  "homepage": "https://github.com/yeonuk44/Time-Keeper#readme",
+  "dependencies": {
+    "@slack/bolt": "^4.2.0",
+    "dotenv": "^16.4.7"
+  }
+}
